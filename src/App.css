@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.registerForm{
+  width: 400px;
+  height: 500px;
+  margin: auto;
+  background-color: #d3d3d3;
+  padding: 20px;
+}
+.rowBlank{
+  margin-top: 20px;
+}
+.errLine{
+  color: red;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
